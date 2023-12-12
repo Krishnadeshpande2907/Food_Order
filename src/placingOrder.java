@@ -1,7 +1,7 @@
 import java.util.Objects;
 import java.util.Scanner;
 
-public class placingOrder extends details {
+public class placingOrder{
 
     private String order;
 
@@ -24,7 +24,6 @@ public class placingOrder extends details {
         for (int i = 0; i < strArray.length; i++) {
             orderArr[i] = Integer.parseInt(strArray[i]);
         }
-
         return orderArr;
     }
 }
