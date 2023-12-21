@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b659653-d3e5-447a-903e-3c825cda92f9" name="Changes" comment="a commit after running once">
+    <list default="true" id="3b659653-d3e5-447a-903e-3c825cda92f9" name="Changes" comment="removed unnecessary inheritance">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -74,7 +75,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702280642053</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="importing only required classes">
+      <option name="closed" value="true" />
+      <created>1702379389383</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702379389384</updated>
+    </task>
+    <task id="LOCAL-00004" summary="removed unnecessary inheritance">
+      <option name="closed" value="true" />
+      <created>1702379927269</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702379927269</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +125,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added all files" />
     <MESSAGE value="a commit after running once" />
-    <option name="LAST_COMMIT_MESSAGE" value="a commit after running once" />
+    <MESSAGE value="importing only required classes" />
+    <MESSAGE value="removed unnecessary inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed unnecessary inheritance" />
   </component>
 </project>
